@@ -57,3 +57,4 @@ artifacts:
   name: RpcView64
 - path: Build\x86\bin\Release\RpcView32.7z
   name: RpcView32
+clone_folder: c:\projects\RpcView
