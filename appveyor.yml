@@ -3,6 +3,7 @@ image: Visual Studio 2019
 build_script:
 - cmd: >-
     rem Because this repo is called "RpcView-fork"
+    
     move C:\projects\RpcView-fork C:\projects\RpcView
 
     cd C:\projects\RpcView
